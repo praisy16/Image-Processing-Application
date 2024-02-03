@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56126984983",
+    "project_id": "whats-that-dog-data",
+    "storage_bucket": "whats-that-dog-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56126984983:android:6935301bbfc8768a309d52",
+        "android_client_info": {
+          "package_name": "com.emulator.whatsthatdog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56126984983-og4gubb41eem1g2jdshgj2ghelsls5nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFrT3UpEiGsSdY0lntTV2sT69f2tAfHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56126984983-og4gubb41eem1g2jdshgj2ghelsls5nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
