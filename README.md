@@ -1,4 +1,4 @@
-This is an android application developed using Java in Android Studio, designed to identify animals in images provided by users. This application leverages TensorFlow for machine learning to accurately recognize various types of animals through sophisticated image processing techniques. 
+This is an android application developed using Java in Android Studio, designed to identify animals in images provided by users. This application leverages TensorFlow for machine learning purposes to accurately recognize various types of animals through sophisticated image processing techniques. 
 
 Features
 - Animal Detection: Utilizes TensorFlow machine learning models to identify different types of animals in user-uploaded images.
